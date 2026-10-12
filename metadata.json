@@ -1,0 +1,6 @@
+{
+  "name": "مملكة الرياضيات الذكية – مغامرات الأرقام",
+  "description": "منصة تعليمية تفاعلية لتفعيل حصص الاحتياط في مادة الرياضيات للصفين السابع والثامن وفق منهج كامبردج بسلطنة عُمان - إعداد وتصميم أ. أميمة الحكماني",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
